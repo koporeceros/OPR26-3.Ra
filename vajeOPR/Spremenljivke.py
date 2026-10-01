@@ -1,4 +1,4 @@
-print("Hello world!")
+print("Hello mate!")
 
 x = 10
 y = -10
